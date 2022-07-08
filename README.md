@@ -10,4 +10,4 @@ learning with deep convolutional generative adversarial networks.
 * For **WGANs-GP**, refer to the following paper.
   * Gulrajani, I., Ahmed, F., Arjovsky, M., Dumoulin, V., and Courville, A.
 (2017). Improved training of wasserstein gans. In Proceedings of the 31st International Conference
-on Neural Information Processing Systems, NIPS’17, pages 5769–5779, USA.
+on Neural Information Processing Systems, NIPS’17.
